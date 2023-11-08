@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª—ğ
+l
+java:S1450"VRemove the "scanner" field and declare it as a local variable in the relevant methods.(Ù‘Ğ
+O
+java:S3400"9Remove this method and declare a constant for this value.(ÛÁœ“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¦ğÇûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öóï¥
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÁÔ™‡ÿÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¦·ò”
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(µ–ˆ‘ıÿÿÿÿ
